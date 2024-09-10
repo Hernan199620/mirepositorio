@@ -1,3 +1,3 @@
 # mirepositorio
 
-# # un espacio de almacenamiento
+## un espacio de almacenamiento
